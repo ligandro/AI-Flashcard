@@ -14,11 +14,11 @@ AI-Flashcard is a web-based tool that transforms YouTube videos and online artic
 - 📝 **Ollama** – Uses Ollama system and model used is Mistral  7B
 
 <p align="center">
-  <img width="50%" src="data/og.jpg"> &nbsp &nbsp
+  <img width="20%" src="data/og.png"> &nbsp &nbsp
 </p>
 
 <p align="center">
-  <img width="50%" src="data/mistral.jpg"> &nbsp &nbsp
+  <img width="20%" src="data/mistral.jpg"> &nbsp &nbsp
 </p>
 
 ## 🚀 Installation  
