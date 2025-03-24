@@ -25,7 +25,7 @@ AI-Flashcard is a web-based tool that transforms YouTube videos and online artic
 
 1. **Clone Repository**
 ```bash
-git clone 
+git clone https://github.com/ligandro/AI-Flashcard.git
 cd AI-Flashcard
 ```
 
