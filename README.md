@@ -2,6 +2,8 @@
 
 AI-Flashcard is a web-based tool that transforms YouTube videos and online articles into interactive flashcards using AI.
 
+![LigaFooty Animation](data/demo.gif)
+
 ## ✨ Features  
 
 - 📝 **Article Summarization** – Convert blog posts and articles into flashcards.  
@@ -10,6 +12,10 @@ AI-Flashcard is a web-based tool that transforms YouTube videos and online artic
 - 🔢 **Custom Flashcard Count** – Generate any amount of flashcards per run.  
 - ⚠️ **Error Handling** – Displays clear messages for invalid URLs or processing failures.  
 - 📝 **Ollama** – Uses Ollama system and model used is Mistral  7B
+
+<p align="center">
+  <img width="50%" src="./images/fstructure.jpg"> &nbsp &nbsp
+</p>
 
 ## 🚀 Installation  
 
